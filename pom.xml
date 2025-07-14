@@ -5,7 +5,7 @@
   <artifactId>devopslab4-2021WC86066</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>devopslab4-2021WC86066</name>
+  <name>devopslab4-AutoBuildTest</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
